@@ -3,7 +3,6 @@
 <body ng-app="App">
 
 <div class="wrapper" ng-controller="DocCtrl">
-  <h1>{{pdfName}}</h1>
 <ng-pdf template-url="/partials/viewer.html" page="1"></ng-pdf>
 </div>
 
