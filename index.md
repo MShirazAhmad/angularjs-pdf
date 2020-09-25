@@ -1,11 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>AngularJS PDFJS Directive</title>
-  <link rel="stylesheet" href="style.css">
-</head>
+
+
 <body ng-app="App">
 
 <div class="wrapper" ng-controller="DocCtrl">
@@ -22,4 +16,4 @@
 <script src="js/controllers/docCtrl.js"></script>
 
 </body>
-</html>
+
